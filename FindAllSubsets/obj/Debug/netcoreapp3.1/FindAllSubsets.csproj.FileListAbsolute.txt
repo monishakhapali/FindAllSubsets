@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\bin\Debug\netcoreapp3.1\FindAllSubsets.exe
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\bin\Debug\netcoreapp3.1\FindAllSubsets.deps.json
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\bin\Debug\netcoreapp3.1\FindAllSubsets.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\bin\Debug\netcoreapp3.1\FindAllSubsets.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\bin\Debug\netcoreapp3.1\FindAllSubsets.dll
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\bin\Debug\netcoreapp3.1\FindAllSubsets.pdb
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\obj\Debug\netcoreapp3.1\FindAllSubsets.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\obj\Debug\netcoreapp3.1\FindAllSubsets.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\obj\Debug\netcoreapp3.1\FindAllSubsets.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\obj\Debug\netcoreapp3.1\FindAllSubsets.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\obj\Debug\netcoreapp3.1\FindAllSubsets.dll
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\obj\Debug\netcoreapp3.1\FindAllSubsets.pdb
+C:\Users\monisha.khapali\source\repos\FindAllSubsets\FindAllSubsets\obj\Debug\netcoreapp3.1\FindAllSubsets.genruntimeconfig.cache
